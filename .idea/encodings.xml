@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/conf/Config.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/controllers/socorgclient/AreaController.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/controllers/socorgclient/CategoryController.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/controllers/socorgclient/CommandController.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/controllers/socorgclient/TypeUsonController.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/domain/socorgclient/Area.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/domain/socorgclient/Category.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/domain/socorgclient/Org.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/domain/socorgclient/ReasonNeed.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/domain/socorgclient/SprService.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/domain/socorgclient/TypeUson.groovy" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

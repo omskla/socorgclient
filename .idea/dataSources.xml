@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2744702516">
+    <data-source source="LOCAL" name="socorgclient dev" uuid="c8f3b677-6232-48a4-9cf5-dc0035536396">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://10.13.25.225/lkorg;sendStringParametersAsUnicode=false;prepareSQL=3;</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/lib/jtds-1.3.1.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
